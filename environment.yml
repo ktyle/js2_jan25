@@ -1,0 +1,12 @@
+name: js2_jan25
+channels:
+  - conda-forge
+dependencies:
+  - python<3.13  # to avoid a dependency conflict with JupyterBook 1.0.3
+  - jupyter-book
+  - jupyterlab
+  - dask
+  - metpy
+  - zarr<3
+  - s3fs
+  - sphinx-pythia-theme
