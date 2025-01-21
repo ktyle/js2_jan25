@@ -10,3 +10,4 @@ dependencies:
   - zarr<3
   - s3fs
   - sphinx-pythia-theme
+  - polars
