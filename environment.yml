@@ -11,3 +11,4 @@ dependencies:
   - s3fs
   - sphinx-pythia-theme
   - polars
+  - scikit-learn
